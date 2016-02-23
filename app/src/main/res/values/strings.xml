@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Order Food</string>
+    <string name="currency_eur">EUR</string>
+    <string name="currency_bgn">BGN</string>
+    <string name="currency_usd">USD</string>
+    <string name="volume_measure_liter">L</string>>
+</resources>
